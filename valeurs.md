@@ -2,7 +2,7 @@
 
 Lua dispose d'une variété de valeurs comme les chaînes, les nombres décimaux, les booléens …. Voici quelques exemples de base:
 
-Les chaînes peuvent être concaténée avec le signe ..
+Les chaînes peuvent être concaténées avec le signe ..
 
 ```lua
 print("Lu" .. "a")
