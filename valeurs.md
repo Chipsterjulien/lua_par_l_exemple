@@ -1,6 +1,6 @@
 # Lua par l'exemple: Les valeurs
 
-Lua dispose d'une variété de valeurs comme les chaines, les nombres décimaux, les booléens …. Voici quelques exemples de base:
+Lua dispose d'une variété de valeurs comme les chaînes, les nombres décimaux, les booléens …. Voici quelques exemples de base:
 
 Les chaînes peuvent être concaténée avec le signe ..
 
