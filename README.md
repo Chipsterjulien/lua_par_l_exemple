@@ -6,17 +6,17 @@ Perso je me vois bien faire un tuto comme avec [golang](https://gobyexample.com/
 
 Liste à faire:
 
-1. [Hello World]()
-2. [Les commentaires]()
-3. [Les valeurs]()
-4. [Les variables]()
-5. [Les boucles]()
-6. [If/Else]()
-7. [Break]()
-7. [Les tables]()
-8. [Les fonctions]()
-9. [Portée des variables]()
-10. [La récurcivité]()
+1. [Hello World](hello_world.md)
+2. [Les commentaires](commentaires.md)
+3. [Les valeurs](valeurs.md)
+4. [Les variables](variables.md)
+5. [Les boucles](boucles.md)
+6. [If/Else](conditions.md)
+7. [Break](break.md)
+7. [Les tables](tables.md)
+8. [Les fonctions](fonctions.md)
+9. [Portée des variables](portee_variables.md)
+10. [La récurcivité](recursivite.md)
 11. Lire et écrire un fichier
 11. Les coroutines
 12. Awesome Lua
