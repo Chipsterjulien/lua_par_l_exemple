@@ -3,6 +3,7 @@
 Perso je me vois bien faire un tuto comme avec [golang](https://gobyexample.com/) à savoir par l'exemple plutôt que de faire de long discourts
 
 [Site](http://fengari.io/) pour tester lua sans installation
+[Version plus complète de ArRay_](https://github.com/BetaRays/tutoriel-lua/)
 
 Liste à faire:
 
@@ -17,8 +18,8 @@ Liste à faire:
 8. [Les fonctions](fonctions.md)
 9. [Portée des variables](portee_variables.md)
 10. [La récurcivité](recursivite.md)
-11. Lire et écrire un fichier
-11. Les coroutines
+11. [Lire et écrire un fichier](lecture_ecriture.md)
+11. [Les coroutines](coroutines.md)
 12. Awesome Lua
 13. Remerciements
 

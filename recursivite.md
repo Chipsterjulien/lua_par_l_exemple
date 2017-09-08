@@ -18,4 +18,4 @@ print(fact(7))
 --  5040
 ```
 
-Exemple suivant: [Lire et écrire un fichier]().
+Exemple suivant: [Lire et écrire un fichier](lecture_ecriture.md).
