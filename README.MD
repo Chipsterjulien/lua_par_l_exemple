@@ -15,7 +15,7 @@ Liste à faire:
 7. [Break]()
 7. [Les tables]()
 8. [Les fonctions]()
-9. [Porté des variables]()
+9. [Portée des variables]()
 10. [La récurcivité]()
 11. Lire et écrire un fichier
 11. Les coroutines
