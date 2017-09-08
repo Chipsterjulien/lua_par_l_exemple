@@ -59,4 +59,4 @@ true
 false
 ```
 
-Prochain exemple: [Les variables]().
+Prochain exemple: [Les variables](variables.md).

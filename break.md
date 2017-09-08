@@ -20,4 +20,4 @@ end
 
 Il existe une autre possibilité de "casser" une boucle avec le mot clef *return* que nous aborderons dans les fonctions.
 
-Prochain exemple: [Les tables]()
+Prochain exemple: [Les tables](tables.md).

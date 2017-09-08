@@ -66,4 +66,4 @@ print(a, b)
 --  1   2
 ```
 
-Prochain exemple: [Les boucles]()
+Prochain exemple: [Les boucles](boucles.md).

@@ -27,4 +27,4 @@ $ lua commentaire.lua
 10
 ```
 
-Prochain exemple: [Les valeurs]().
+Prochain exemple: [Les valeurs](valeurs.md).

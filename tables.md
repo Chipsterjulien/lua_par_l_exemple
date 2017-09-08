@@ -318,4 +318,4 @@ end
 --  5
 ```
 
-Exemple suivant: [Les fonctions]()
+Exemple suivant: [Les fonctions](fonctions.md).

@@ -82,4 +82,4 @@ end
 --  0
 ```
 
-Prochain exemple: [If/Else]()
+Prochain exemple: [If/Else](conditions.md).

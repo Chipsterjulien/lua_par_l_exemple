@@ -50,7 +50,7 @@ function main()
   a, b = vals()
   print(a)
   print(b)
-
+  
   -- Si nous ne voulons pas utiliser la première variable, il faut utiliser _
   _, c = vals()
   print(c)
@@ -110,4 +110,4 @@ Vous remarquerez que *print("Fin")* n'est pas lu dans notre cas. Le mot clef ret
 
 Dernière précision, une fonction peut appeler une autre fonction
 
-Exemple suivant: [Portée des variables]()
+Exemple suivant: [Portée des variables](portee_variables.md).

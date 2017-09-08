@@ -17,3 +17,5 @@ print(fact(7))
 -- Output:
 --  5040
 ```
+
+Exemple suivant: [Lire et écrire un fichier]().
