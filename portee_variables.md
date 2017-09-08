@@ -1,4 +1,4 @@
-# Lua par l'exemple: Porté des variables
+# Lua par l'exemple: Portée des variables
 
 Par défaut, les variables sont globales:
 ```lua
