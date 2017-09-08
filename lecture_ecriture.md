@@ -86,7 +86,7 @@ file:close()
 ```
 
 seek() attend 2 paramètres optionnels **whence** et **offset**.
-* whence peut prendre comme valeur *set*, *cur* ou *end*
+* whence peut prendre comme valeur *set*, *cur* ou *end*, cur étant la valeur par défaut
 * offset est un entier (voir l'exemple ci-dessus)
 
 seek() peut être utilisé dans n'importe quel mode d'ouverture (voir suite)
