@@ -69,7 +69,7 @@ writeStringInFile("/tmp/dat", "Hello world!\n")
 ```
 
 ## Seek
-Seek permet de se déplacer dans le fichier. En effet lors de l'ouverture d'un fichier en lecture seule, le curseur est placé automatiquement au début à savoir 0, 0:
+Seek permet de se déplacer dans le fichier. Par exemple, lors de l'ouverture d'un fichier en lecture seule, le curseur est placé automatiquement au début à savoir 0, 0:
 * ligne 0
 * colonne 0
 
@@ -89,6 +89,7 @@ seek() attend 2 paramètres optionnels **whence** et **offset**.
 * whence peut prendre comme valeur *set*, *cur* ou *end*
 * offset est un entier (voir l'exemple ci-dessus)
 
+seek() peut être utilisé dans n'importe quel mode d'ouverture (voir suite)
 
 ## Les modes
 ### Modes d'ouvertures d'un fichier
