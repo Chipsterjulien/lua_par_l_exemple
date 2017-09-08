@@ -17,7 +17,7 @@ Ceci est un commentaire:
 
 Un autre commentaire:
 ```lua
--- print(5) Cette ligne ne sera jamais "lu"
+-- print(5) Cette ligne ne sera jamais "lue"
 print(10)
 ```
 
