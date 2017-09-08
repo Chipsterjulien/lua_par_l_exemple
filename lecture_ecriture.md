@@ -1,6 +1,6 @@
 # Lua par l'exemple: Lire et écrire un fichier
 
-Lire et écrire un fichier sont des tâches basiques nécessaires pour beaucoup de programme Lua
+Lire et écrire un fichier sont des tâches basiques nécessaires pour beaucoup de programmes Lua
 
 ## Lecture d'un fichier
 
