@@ -17,7 +17,7 @@ Liste à faire:
 7. [Les tables](tables.md)
 8. [Les fonctions](fonctions.md)
 9. [Portée des variables](portee_variables.md)
-10. [La récurcivité](recursivite.md)
+10. [La récursivité](recursivite.md)
 11. [Lire et écrire un fichier](lecture_ecriture.md)
 11. [Les coroutines](coroutines.md)
 12. Awesome Lua

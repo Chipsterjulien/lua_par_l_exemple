@@ -52,10 +52,11 @@ until i < 5
 
 ## La boucle for
 
-C'est certainement la boucle la plus importante et la plus utilisée. Elle existe sous 2 formes:
+C'est certainement la boucle la plus importante et la plus utilisée. Il est possible de la trouver sous plusieurs formes dont 2 seront aborder dans l'exemple sur *les tables*.
+Voici la forme numérique:
 
 ```lua
--- Forme 1
+-- Forme numérique
 for i=0, 5 do
   print(i)
 end
@@ -68,8 +69,10 @@ end
 --  5
 ```
 
+Il est possible de spécifier le pas d'incrémentation (ou décrémentation selon les besoins)
+
 ```lua
--- Forme 2, on spécifie le pas de l'incrémentation
+-- Forme numérique avec spécification du pas
 for i=5, 0, -1 do
   print(i)
 end
