@@ -17,6 +17,9 @@ Liste à faire:
 7. [Les tables](tables.md)
 8. [Les fonctions](fonctions.md)
 9. [Portée des variables](portee_variables.md)
+10. [Fonction à nombre d'arguments variables](variadic.md)
+10. [Les imports](imports.md)
+10. [Créer ses propres librairies](creer_lib.md)
 10. [La récursivité](recursivite.md)
 11. [Lire et écrire un fichier](lecture_ecriture.md)
 11. [Les coroutines](coroutines.md)
@@ -24,12 +27,11 @@ Liste à faire:
 13. Remerciements
 
 Les choses à rajouter dans la liste
-* les import
+* les closures
 * sandbox (avec do … end)
 * les variables magiques
 * pack/unpack (voir ici: https://github.com/BetaRays/tutoriel-lua/blob/master/030-Les_variables.md#les-fonctions-variadiques)
 * select
 * rajouter sort aux tables (http://wxlua.free.fr/Tutoriel_Lua/Tuto/Tables/tables9.php)
-* Les paquetages
 * Les regex
 * Les fonctions à nombre de variables indéterminées

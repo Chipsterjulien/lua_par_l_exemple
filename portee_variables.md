@@ -65,4 +65,4 @@ print(a)
 --  6
 ```
 
-Exemple suivant: [La récursivité]()
+Exemple suivant: [Fonction à nombre d'arguments variables](variadic.md)
