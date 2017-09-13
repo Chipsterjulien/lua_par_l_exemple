@@ -1,6 +1,6 @@
 # Lua par l'exemple: les imports
 
-Le langage Lua est riche en possibilités mais il est impossible de tout mettre en son sein (noyau). Par exemple, si vous souhaitez faire de réseau, de base, Lua ne sait pas faire.
+Le langage Lua est riche en possibilités mais il est impossible de tout mettre en son sein (noyau). Par exemple, si vous souhaitez faire du réseau, de base, Lua ne sait pas faire.
 Au lieu de réinventer systématiquement la roue, il est possible de récupérer du code déjà écrit par quelqu'un d'autre:
 
 ```lua

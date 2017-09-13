@@ -61,6 +61,7 @@ print("Fin du programme")
 ```
 
 Il est possible de connaître l'état d'une coroutine avec *coroutine.status()*. Elle peut avoir 3 états:
+
 | État de la coroutine | Signification     |
 | -------------------- | ----------------- |
 | suspended            | En attente        |
