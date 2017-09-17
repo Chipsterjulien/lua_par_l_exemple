@@ -1,9 +1,10 @@
 # Lua par l'exemple: Les fermetures (closures)
 
-Lua prend en charge les fonctions anonymes qui peuvent former des fermetures (closures). Les fonctions anonymes sont utiles lorsque nous souhaitons définir une fonction en ligne sans avoir à la nommer.
+Lua prend en charge les fonctions anonymes qui peuvent former des fermetures (closures). Les fonctions anonymes sont utiles lorsque nous souhaitons définir une fonction sans avoir à la nommer.
 ```lua
 function intSeq()
   i = 0
+  -- Début de la fonction anonyme
   return function()
     i = i + 1
     return i
