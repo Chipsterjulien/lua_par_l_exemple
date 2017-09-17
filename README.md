@@ -43,10 +43,9 @@ Liste à faire:
 11. [Lire et écrire un fichier](lecture_ecriture.md)
 11. [Les coroutines](coroutines.md)
 12. Awesome Lua
-13. Remerciements
+13. [Remerciements](remerciements.md)
 
 Les choses à rajouter dans la liste
-* Expliquer ce que c'est que nil
 * Parler de select (function a(...) for i=1,select('#',...) do print(i,select(i,...)) end end a('c','est','cool'))
 
 exemple: [22:20:21] <nheir> select est une fonction qui prend un premier argument correspondant à l'action que tu veux faire et d'autres arguments ensuite, si le premier est '#', select renvoie le nombre d'arguments qui suit
@@ -58,7 +57,6 @@ exemple: [22:20:21] <nheir> select est une fonction qui prend un premier argumen
 [22:22:10] <arch_ange> > 1 5 9 7
 [22:22:22] <nheir> !lua select('3', 4,8,9,1,5,9,7)
 
-* les closures
 * sandbox (avec do … end)
 * les variables magiques
 * pack/unpack (voir ici: https://github.com/BetaRays/tutoriel-lua/blob/master/030-Les_variables.md#les-fonctions-variadiques)
