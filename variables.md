@@ -66,4 +66,24 @@ print(a, b)
 --  1   2
 ```
 
+Il est possible d'initialiser une variable **vide** grâce à *nil*. Lorsque nous aurons abordé la [porté des variables](portee_variables.md) vous en comprendrez mieux l'intérêt:
+```lua
+a = nil
+print(a)
+
+-- output:
+--  nil
+```
+
+*nil* permet aussi de "vider" une variable:
+```lua
+a = {}
+print(a)
+a = nil
+print(a)
+
+-- output:
+--  table: 0xe0e920
+```
+
 Prochain exemple: [Les boucles](boucles.md).
