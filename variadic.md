@@ -2,11 +2,16 @@
 
 Des fonctions en Lua peuvent recevoir un nombre d'arguments variables comme *print()*:
 ```lua
-print("a" .. " " .. "b")
+a = 2
+b = 4
+c = 6
+-- On passe 3 paramètres
+print(a, b, c)
+-- On passe 1 seul paramètre
 print(6)
 
 -- output:
---  a b
+--  2    4    6
 --  6
 ```
 
