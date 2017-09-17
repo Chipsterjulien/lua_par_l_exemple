@@ -31,4 +31,4 @@ mymodule.foo()
 
 En Lua, le séparateur est un *.* et non un "/" ou un "\"
 
-Exemple suivant: [La récursivité](recursivite.md)
+Exemple suivant: [Les fermetures (closures)](closures.md).

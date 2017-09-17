@@ -38,6 +38,7 @@ Liste à faire:
 11. [Récupérer les arguments de la ligne de commandes](arg_cli.md)
 10. [Les imports](imports.md)
 10. [Créer ses propres librairies](creer_lib.md)
+11. [Les fermetures (closures)](closures.md)
 10. [La récursivité](recursivite.md)
 11. [Lire et écrire un fichier](lecture_ecriture.md)
 11. [Les coroutines](coroutines.md)
@@ -57,7 +58,6 @@ exemple: [22:20:21] <nheir> select est une fonction qui prend un premier argumen
 [22:22:10] <arch_ange> > 1 5 9 7
 [22:22:22] <nheir> !lua select('3', 4,8,9,1,5,9,7)
 
-* Récupérer les arguments de la ligne de commandes
 * les closures
 * sandbox (avec do … end)
 * les variables magiques
