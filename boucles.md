@@ -18,6 +18,13 @@ end
 --  4
 ```
 
+Dans l'exemple précédent, vous pourriez être tentés d'écrire ceci:
+```lua
+-- Remplacer i = i + 1 par:
+i++
+```
+Cependant, Lua ne supporte pas cette forme de notation dîtes d'*autoincrémentation*
+
 
 ## La boucle until
 
