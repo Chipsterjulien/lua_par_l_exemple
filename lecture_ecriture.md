@@ -117,7 +117,7 @@ Cependant, la fonction *read()* peut prendre d'autres paramètres:
 | "*n"   | Lit à partir de la position actuelle du fichier et renvoie un numéro, s'il existe, à la position du fichier ou renvoie nil |
 | "*a"   | Lit l'intégralité du fichier à partir de la position du curseur                                                            |
 | "*l"   | Lit la ligne à partir de la position du curseur et le place à la prochaine ligne                                           |
-| nombre | Lit le nombre de bytes                                                                                                     |
+| nombre | Lit le nombre d'octets (bytes)                                                                                            |
 
 ## Autres commandes intéressantes
 
