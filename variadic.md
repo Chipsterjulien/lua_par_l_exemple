@@ -48,4 +48,4 @@ variadic("b", "c", 2, 6, 4)
 --  4
 ```
 
-Exemple suivant: [Les imports](imports.md).
+Exemple suivant: [Récupérer les arguments de la ligne de commandes](arg_cli.md).
