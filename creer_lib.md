@@ -29,7 +29,7 @@ mymodule.foo()
 --  Hello world!
 ```
 
-Exemple complet:
+## Exemple complet:
 Fichier dans le répertoire fmt: *fmt/printf.lua*
 ```lua
 local fmt = {}
