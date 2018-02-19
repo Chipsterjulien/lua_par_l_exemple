@@ -20,7 +20,7 @@ mymodule.foo()
 --  Hello world!
 ```
 
-Si vous mettez votre lib dans un répertoire ou plusieurs répertoire, il faudra l'appeler comme ceci:
+Si vous mettez votre lib dans un répertoire ou plusieurs répertoire(s), il faudra l'appeler comme ceci:
 ```lua
 monModule = require "monRep.unAutreRep.mymodule"
 mymodule.foo()
@@ -28,6 +28,30 @@ mymodule.foo()
 -- output:
 --  Hello world!
 ```
+
+Exemple complet:
+Fichier dans le répertoire fmt: *fmt/printf.lua*
+```lua
+local fmt = {}
+
+function fmt.printf(str, ...)
+  io.write(string.format(str, ...))
+end
+
+return fmt
+```
+
+Fichier utilisant *fmt/printf.lua*:
+```lua
+local fmt = require "fmt.printf"
+
+local name = "Julien"
+fmt.printf("Bonjour %s", name)
+
+-- output:
+--  Bonjour Julien
+```
+
 
 En Lua, le séparateur est un *.* et non un "/" ou un "\"
 
