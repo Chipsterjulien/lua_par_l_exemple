@@ -108,6 +108,23 @@ otherFunc()
 
 Vous remarquerez que *print("Fin")* n'est pas lu dans notre cas. Le mot clef return permet de "sortir" de la fonction.
 
-Dernière précision, une fonction peut appeler une autre fonction
+Avant dernière précision, une fonction peut appeler une autre fonction.
+
+Dernière précision. Il existe 2 autres possibilités pour appeler une fonction:
+```lua
+local function test(str)
+  print(str)
+end
+
+test "5"
+test{ "4" }
+test{ "4", "5"}
+
+-- output:
+--  5
+--  table: 0x16aad60
+--  table: 0x16abad0
+```
+
 
 Exemple suivant: [Portée des variables](portee_variables.md).
