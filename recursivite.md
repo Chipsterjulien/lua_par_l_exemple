@@ -1,6 +1,6 @@
 # Lua par l'exemple: La récursivité
 
-C'est une fonction qui s'appelle elle-même. Dans notre cas, la fonction *fact* s'appelle jusqu'à ce que le cas fact(0) apparraise:
+C'est une fonction qui s'appelle elle-même. Dans notre cas, la fonction *fact* s'appelle jusqu'à ce que le cas fact(0) apparraisse:
 
 ```lua
 function fact(n)
